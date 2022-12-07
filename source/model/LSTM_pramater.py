@@ -3,5 +3,5 @@ BATCH_SIZE = 128
 SEQUENCE_LENGTH = 4
 LEARNING_RATE = 0.001
 NROWS = 2048
-URL = '/home/ishii/LSTM/gdb13.rand1M.smi'
+URL = '/../../data/gdb13.rand1M.smi'
 PARALELL = True
