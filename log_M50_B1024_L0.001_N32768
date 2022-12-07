@@ -1,0 +1,56 @@
+MAX_EPOCHS:50
+BATCH_SIZE:1024
+SEQUENCE_LENGTH:4
+LEARNING_RATE:0.001
+NROWS:32768
+Epoch: 1, Loss: 9.358, test_Loss: 8.223
+Epoch: 2, Loss: 7.948, test_Loss: 7.787
+Epoch: 3, Loss: 7.559, test_Loss: 7.432
+Epoch: 4, Loss: 7.215, test_Loss: 7.079
+Epoch: 5, Loss: 6.839, test_Loss: 6.746
+Epoch: 6, Loss: 6.563, test_Loss: 6.515
+Epoch: 7, Loss: 6.383, test_Loss: 6.435
+Epoch: 8, Loss: 6.273, test_Loss: 6.333
+Epoch: 9, Loss: 6.189, test_Loss: 6.299
+Epoch: 10, Loss: 6.118, test_Loss: 6.209
+Epoch: 11, Loss: 6.057, test_Loss: 6.142
+Epoch: 12, Loss: 6.011, test_Loss: 6.103
+Epoch: 13, Loss: 5.963, test_Loss: 6.079
+Epoch: 14, Loss: 5.937, test_Loss: 6.058
+Epoch: 15, Loss: 5.897, test_Loss: 6.039
+Epoch: 16, Loss: 5.861, test_Loss: 6.029
+Epoch: 17, Loss: 5.831, test_Loss: 6.015
+Epoch: 18, Loss: 5.805, test_Loss: 6.008
+Epoch: 19, Loss: 5.784, test_Loss: 6.010
+Epoch: 20, Loss: 5.767, test_Loss: 5.989
+Epoch: 21, Loss: 5.784, test_Loss: 6.047
+Epoch: 22, Loss: 5.749, test_Loss: 5.966
+Epoch: 23, Loss: 5.709, test_Loss: 5.972
+Epoch: 24, Loss: 5.685, test_Loss: 5.965
+Epoch: 25, Loss: 5.668, test_Loss: 5.974
+Epoch: 26, Loss: 5.662, test_Loss: 5.986
+Epoch: 27, Loss: 5.641, test_Loss: 5.981
+Epoch: 28, Loss: 5.626, test_Loss: 5.990
+Epoch: 29, Loss: 5.611, test_Loss: 5.987
+Epoch: 30, Loss: 5.590, test_Loss: 5.986
+Epoch: 31, Loss: 5.595, test_Loss: 6.044
+Epoch: 32, Loss: 5.612, test_Loss: 5.981
+Epoch: 33, Loss: 5.560, test_Loss: 5.993
+Epoch: 34, Loss: 5.541, test_Loss: 5.997
+Epoch: 35, Loss: 5.528, test_Loss: 6.001
+Epoch: 36, Loss: 5.517, test_Loss: 6.012
+Epoch: 37, Loss: 5.505, test_Loss: 6.029
+Epoch: 38, Loss: 5.483, test_Loss: 6.035
+Epoch: 39, Loss: 5.495, test_Loss: 6.031
+Epoch: 40, Loss: 5.470, test_Loss: 6.040
+Epoch: 41, Loss: 5.450, test_Loss: 6.083
+Epoch: 42, Loss: 5.441, test_Loss: 6.113
+Epoch: 43, Loss: 5.434, test_Loss: 6.078
+Epoch: 44, Loss: 5.813, test_Loss: 6.101
+Epoch: 45, Loss: 5.579, test_Loss: 6.045
+Epoch: 46, Loss: 5.477, test_Loss: 6.042
+Epoch: 47, Loss: 5.430, test_Loss: 6.056
+Epoch: 48, Loss: 5.404, test_Loss: 6.070
+Epoch: 49, Loss: 5.382, test_Loss: 6.089
+Epoch: 50, Loss: 5.366, test_Loss: 6.098
+time:788.2354733943939
